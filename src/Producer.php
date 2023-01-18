@@ -6,5 +6,5 @@ namespace Crutch\Producer;
 
 interface Producer
 {
-    public function produce(string $message, string $topic, float $delay = 0);
+    public function produce(string $message, string $topic, float $delay = 0): void;
 }
