@@ -1,6 +1,9 @@
 # crutch/producer
 
-producer interface
+Note that this is not a Producer implementation of its own. It is merely abstractions that describe the components of a Producer.
+
+The installable [package](https://packagist.org/packages/crutch/producer) and [implementations](https://packagist.org/providers/crutch/producer-implementation) are listed on Packagist.
+
 
 # Install
 
